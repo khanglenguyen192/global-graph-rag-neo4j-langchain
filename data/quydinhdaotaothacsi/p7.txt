@@ -1,0 +1,9 @@
+Khung chương trình đào tạo Thạc sĩ bao gồm tổng cộng 60 tín chỉ. Chương trình được chia thành các phần như sau:
+- Phần 1: Khối kiến thức bổ sung (15 tín chỉ) áp dụng cho các học viên có bằng đại học ngành gần.
+- Phần 2: Khối kiến thức chung bao gồm các môn Triết học, Anh văn và các môn học chung. Chương trình thạc sĩ ứng dụng yêu cầu 9 tín chỉ, trong khi chương trình thạc sĩ nghiên cứu yêu cầu 7 tín chỉ.
+- Phần 3: Khối kiến thức bắt buộc có từ 12 đến 16 tín chỉ.
+- Phần 4: Khối kiến thức tự chọn chiếm từ 8 đến 12 tín chỉ.
+- Phần 5: Khối kiến thức luận văn bao gồm luận văn thạc sĩ. Đối với chương trình thạc sĩ ứng dụng, luận văn chiếm 12 tín chỉ. Đối với chương trình thạc sĩ nghiên cứu, luận văn và báo cáo khoa học chiếm tổng cộng 24 tín chỉ, trong đó có 2 tín chỉ dành cho phương pháp nghiên cứu khoa học nâng cao.
+: 2
+LVThS: 12
+ LVThS+BCKH: 24

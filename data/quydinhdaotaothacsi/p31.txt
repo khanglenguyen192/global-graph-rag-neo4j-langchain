@@ -1,0 +1,13 @@
+6. Đăng ký môn học thay thế: Trường hợp học viên có nhu cầu đăng ký môn học để
+hoàn thiện Chương trình đào tạo của khóa đào tạo liên quan nhưng môn học không còn
+được tổ chức giảng dạy trong Chương trình đào tạo của Trường, học viên phải đăng ký
+môn học khác thay thế. Nếu môn học liên quan là môn học bắt buộc, môn học thay thế
+do bộ môn đề nghị và Khoa quản lý ngành quyết định. Nếu môn học liên quan là môn
+học tự chọn, học viên được quyền chọn môn học bất kỳ từ Chương trình đào tạo hiện
+hành liên quan làm môn học thay thế.
+7. Đăng ký môn học trước - sau: Để đảm bảo tính hệ thống trong nội dung Chương
+trình đào tạo, một số môn học yêu cầu các môn học trước. Nếu môn học A là môn học
+trước của môn học B (môn học sau), học viên cần đăng ký học môn học A trước ít nhất
+1 học kỳ so với môn học B.
+8. Đăng ký môn học song hành: Nếu Chương trình đào tạo có các môn học song hành,
+học viên phải đăng ký học các môn học song hành trong cùng 1 học kỳ.

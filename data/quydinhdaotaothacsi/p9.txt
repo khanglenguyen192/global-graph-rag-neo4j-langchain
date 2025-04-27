@@ -1,0 +1,10 @@
+Điều 6. Cấu trúc môn học
+1. Nội dung môn học (MH) bao gồm 3 thành phần chính: lý thuyết (LT), thực hành
+(gọi tắt là TH, bao gồm thực hành, thí nghiệm) và tiểu luận (gọi tắt là TL bao gồm thực
+tập, bài tập lớn, tiểu luận, đồ án) và được mô tả dưới dạng các chỉ số như sau M (n,l,k)
+trong đó M: số TC; n: số tiết LT; l: số tiết TH; k: số tiết TL.
+2. Nội dung chi tiết, khối lượng các thành phần môn học được thể hiện trong đề cương
+môn học liên quan. Thời lượng tối thiểu của môn học là 2 tín chỉ.
+3. Nội dung môn học bao gồm giảng dạy lý thuyết và thực hành (bài tập, thí nghiệm,
+thực hành, tiểu luận), trong đó phần thực hành đảm bảo tối thiểu 25% thời lượng môn
+học.
